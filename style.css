@@ -1,0 +1,79 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: lightgray;
+}
+
+h2, p, .readme-wrapper{
+    text-align: center;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: pointer;
+    color: chartreuse;
+    font: bold;
+}
+
+span {
+    color: chocolate;
+    font-weight: 900;
+}
+
+.boxes {
+    margin: 1.2em 10px;
+    padding: 2%;
+    border: 20px solid aquamarine;
+    border-radius: 20%;
+    width: 22em;
+    display: block;
+}
+
+#box1, #box2, #box3, #box4 {
+    background-color: burlywood;
+}
+
+.image {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: indigo;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.original {
+    color: lightcoral;
+}
+
+.additional {
+    color: yellowgreen;
+}
+
+#rank1, #rank4{
+    color: violet;
+}
+
+#rank5 {
+    color: tomato;
+}
+
+ul {
+    color: blanchedalmond;
+}
+
+.star {
+    color: yellow;
+}
+
+#wars {
+    color: teal;
+}
+
+.border {
+    border: 2px solid black;
+}
